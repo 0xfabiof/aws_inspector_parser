@@ -5,7 +5,9 @@ vulnerable_package:identified_cve
 
 # usage
 
+```sh
 python inspector_parser.py <html_report_path>
+```
 
 # sample output
 
